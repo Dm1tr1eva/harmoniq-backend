@@ -8,7 +8,7 @@ Harmoniq об'єднує людей навколо теми ментальног
 
 Це командний навчальний проєкт (капстоун GoIT), написаний з нуля за технічним завданням: REST API на Express 5 з MongoDB, сесійна автентифікація на httpOnly-куках, Cloudinary для зображень, Swagger-документація.
 
-Фронтенд, що споживає це API: [project-First_team_01_FrontEnd](https://github.com/Dm1tr1eva/project-First_team_01_FrontEnd) (Next.js).
+Фронтенд, що споживає це API: [harmoniq-frontend](https://github.com/Dm1tr1eva/harmoniq-frontend) (Next.js).
 
 ## Живий проєкт
 
@@ -73,7 +73,7 @@ Render присипляє сервіс.
 Сервер підніметься на `http://localhost:3000` (порт з `PORT` в `.env`).
 
 Для повноцінної роботи локально знадобиться також піднятий фронтенд —
-див. [README фронтенду](https://github.com/Dm1tr1eva/project-First_team_01_FrontEnd#readme).
+див. [README фронтенду](https://github.com/Dm1tr1eva/harmoniq-frontend#readme).
 
 ## Змінні оточення
 
